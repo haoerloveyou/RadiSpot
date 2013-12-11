@@ -1,0 +1,9 @@
+Package: ws.hbang.radispot
+Name: RadiSpot
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Open Spotify to now playing Pandora song
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Tweaks
