@@ -23,6 +23,8 @@ void HBRSOpenSpotify() {
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 	if (indexPath.section == 5) {
 		NowPlayingDrawerCell *cell = [[%c(NowPlayingDrawerCell) alloc] init]; // y u no cell reuse?
+		cell.backgroundColor = nil;
+		cell.backgroundView = nil;
 		cell.textLabel.text = @"Open in Spotify";
 
 		if (!icon) {
