@@ -3,7 +3,7 @@ Name: RadiSpot
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Open Spotify to now playing Pandora song
+Description: Open Spotify to now playing Pandora or iTunes Radio song
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
 Section: Tweaks
