@@ -1,1 +1,8 @@
-{ Filter = { Bundles = ( "com.pandora" ); }; }
+{
+	Filter = {
+		Bundles = (
+			"com.pandora",
+			"com.apple.Music",
+		);
+	};
+}
